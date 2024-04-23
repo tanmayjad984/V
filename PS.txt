@@ -1,0 +1,49 @@
+1.	Implement Boston housing price prediction problem using Linear regression.
+Dataset: https://www.kaggle.com/code/shreayan98c/boston-house-price-prediction 
+
+
+2.	Implement Binary classification using Deep Neural Networks Example: Classify movie reviews
+Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews 
+
+
+3.	Implement Multiclass classification using Deep Neural Networks: Example: Use the OCR letter recognition dataset
+Dataset: https://www.kaggle.com/datasets/preatcher/standard-ocr-dataset 
+
+4.	Use MNIST Fashion Dataset and create a classifier to classify fashion clothing
+Dataset: https://www.kaggle.com/datasets/zalando-research/fashionmnist 
+
+
+5.	Use the Google stock prices dataset and design a time series analysis and prediction system using RNN
+Dataset: https://www.kaggle.com/datasets/medharawat/google-stock-price 
+
+6.	Implement Parallel breadth first search using OpenMP
+
+
+7.	Implement Parallel depth first search using OpenMP
+
+
+8.	Implement Parallel bubble sort using OpenMP
+
+
+
+9.	Implement Parallel merge sort using OpenMP
+
+
+10	. Implement min, max using parallel reduction
+
+
+
+
+11	. Implement sum, average using parallel reduction
+
+
+
+
+
+12	. Write CUDA program for addition of two vectors
+
+
+
+
+13	. Write CUDA program for matrix multiplication
+
